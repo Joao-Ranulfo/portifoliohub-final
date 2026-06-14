@@ -1,0 +1,14 @@
+# Arquivos de senha e configuração local
+.env
+*.env
+credentials.json
+
+# Pastas de bibliotecas e ambientes virtuais (Python/Data Science)
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
