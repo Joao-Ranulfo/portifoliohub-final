@@ -47,6 +47,8 @@ Se tiver alguma dúvida ou quiser saber mais sobre a implantação, você pode m
 
 - 📧 **E-mail Institucional:** joao.rvaz@sempreceub.com
 - 📍 **Localização:** Brasília, Distrito Federal, Brasil
+- git hub-https://github.com/repos
+- linkedin= https://www.linkedin.com/in/joao-pedro-vaz-52428b40a/
 ---
 
 ## 📁 Estrutura do Repositório
