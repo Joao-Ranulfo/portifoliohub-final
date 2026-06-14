@@ -11,7 +11,7 @@ Bem-vindo ao repositório de implantação do **PortfolioHUB**, uma plataforma c
 - [📁 Estrutura do Repositório](#-estrutura-do-repositório)
 - [🛡️ Práticas de Segurança Implementadas](#️-práticas-de-segurança-implementadas)
 - [🌐 Acesso ao Projeto](#-acesso-ao-projeto)
-- [📞 Contato](#-contato)
+- [📞 Contato] joao.rvaz@sempreceub.com
 
 ---
 
