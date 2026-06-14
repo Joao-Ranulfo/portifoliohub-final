@@ -38,8 +38,7 @@ Bem-vindo ao repositório de implantação do **PortfolioHUB**, uma plataforma c
 
 - 🐙 **Repositório Oficial:** https://github.com/Joao-Ranulfo/portifoliohub-final
 - 🎬 **Apresentação em Vídeo (YouTube):** [COLOQUE O LINK DO SEU VÍDEO DO YOUTUBE AQUI]
--  site https://johnrvaz.github.io
-
+-  Site de Referência (Google Sites): https://sites.google.com/view/portifoliojohnvaz/in%C3%ADcio
 ---
 
 ## 📞 Contato
