@@ -32,7 +32,21 @@ Bem-vindo ao repositório de implantação do **PortfolioHUB**, uma plataforma c
 - **Suporte Cognitivo:** Google Gemini (Engenharia de Prompts para planejamento e revisão de segurança)
 - **Integração de Nuvem:** Google Workspace
 - **Linguagens Base (Interface):** HTML5, CSS3, JavaScript / Markdown
+---
 
+## 🌐 Acesso ao Projeto
+
+- 🐙 **Repositório Oficial:** https://github.com/Joao-Ranulfo/portifoliohub-final
+- 🎬 **Apresentação em Vídeo (YouTube):** [COLOQUE O LINK DO SEU VÍDEO DO YOUTUBE AQUI]
+
+---
+
+## 📞 Contato
+
+Se tiver alguma dúvida ou quiser saber mais sobre a implantação, você pode me encontrar por aqui:
+
+- 📧 **E-mail Institucional:** joao.rvaz@sempreceub.com
+- 📍 **Localização:** Brasília, Distrito Federal, Brasil
 ---
 
 ## 📁 Estrutura do Repositório
@@ -52,3 +66,5 @@ portifoliohub-final/
 ├── .gitignore                  # Instruções de exclusão de arquivos sensíveis
 ├── SECURITY.md                 # Diretrizes de segurança e reporte de falhas
 └── README.md                   # Documentação principal (Este arquivo)
+
+*Última atualização: Junho de 2026.*
